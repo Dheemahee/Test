@@ -1,5 +1,6 @@
 # my first program
 # print("I love python!")
+PRINT("HELLO WORLD")
 """first_name="Dheemahee"
 
 ctrl+shift+/ for multiple lines command
